@@ -1,0 +1,27 @@
+// enkapsulasi_lia.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+
+class remoteLampu
+{
+private:
+    string saklarNo[10];
+
+public:
+    void setSaklarNo(int i, string value)
+    {
+        saklarNo[i] = value;
+    }
+    string getSaklarNo(int i)
+    {
+        return saklarNo[i];
+    }
+};
+
+int main()
+{
+    std::cout << "Hello World!\n";
+}
+
