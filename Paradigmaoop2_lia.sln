@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paradigmaoop2_lia", "Paradigmaoop2_lia\Paradigmaoop2_lia.vcxproj", "{31238892-B39D-4BFD-A607-3291BB1A2AC5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overriding_lia", "Overriding_lia\Overriding_lia.vcxproj", "{A9ADE8EE-9C38-4576-A585-79BC8AADE3EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOverriding_lia", "Overriding_lia\Overriding_lia.vcxproj", "{A9ADE8EE-9C38-4576-A585-79BC8AADE3EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoPewarisan_lia", "NoPewarisan_lia\NoPewarisan_lia.vcxproj", "{F957A122-E323-4C87-8A87-2071D4E0E450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{A9ADE8EE-9C38-4576-A585-79BC8AADE3EC}.Release|x64.Build.0 = Release|x64
 		{A9ADE8EE-9C38-4576-A585-79BC8AADE3EC}.Release|x86.ActiveCfg = Release|Win32
 		{A9ADE8EE-9C38-4576-A585-79BC8AADE3EC}.Release|x86.Build.0 = Release|Win32
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Debug|x64.ActiveCfg = Debug|x64
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Debug|x64.Build.0 = Debug|x64
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Debug|x86.ActiveCfg = Debug|Win32
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Debug|x86.Build.0 = Debug|Win32
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Release|x64.ActiveCfg = Release|x64
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Release|x64.Build.0 = Release|x64
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Release|x86.ActiveCfg = Release|Win32
+		{F957A122-E323-4C87-8A87-2071D4E0E450}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
