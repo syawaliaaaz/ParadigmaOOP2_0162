@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi_lia", "enkapsul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi_lia", "abstraksi_lia\abstraksi_lia.vcxproj", "{51AC77D1-253A-418B-BA49-9042BB899D0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksiheader_lia", "Abstraksiheader_lia\Abstraksiheader_lia.vcxproj", "{B2761E41-5265-4299-94E3-F3227767559F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{51AC77D1-253A-418B-BA49-9042BB899D0A}.Release|x64.Build.0 = Release|x64
 		{51AC77D1-253A-418B-BA49-9042BB899D0A}.Release|x86.ActiveCfg = Release|Win32
 		{51AC77D1-253A-418B-BA49-9042BB899D0A}.Release|x86.Build.0 = Release|Win32
+		{B2761E41-5265-4299-94E3-F3227767559F}.Debug|x64.ActiveCfg = Debug|x64
+		{B2761E41-5265-4299-94E3-F3227767559F}.Debug|x64.Build.0 = Debug|x64
+		{B2761E41-5265-4299-94E3-F3227767559F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2761E41-5265-4299-94E3-F3227767559F}.Debug|x86.Build.0 = Debug|Win32
+		{B2761E41-5265-4299-94E3-F3227767559F}.Release|x64.ActiveCfg = Release|x64
+		{B2761E41-5265-4299-94E3-F3227767559F}.Release|x64.Build.0 = Release|x64
+		{B2761E41-5265-4299-94E3-F3227767559F}.Release|x86.ActiveCfg = Release|Win32
+		{B2761E41-5265-4299-94E3-F3227767559F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
